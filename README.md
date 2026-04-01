@@ -25,3 +25,7 @@ tnsping orcl_clone
 <img width="747" height="300" alt="image" src="https://github.com/user-attachments/assets/d0d3bf2b-0a0f-4429-96e2-264574804101" />
 
 <img width="734" height="186" alt="image" src="https://github.com/user-attachments/assets/d83cb03a-b67c-4ad8-b4df-7ecb539b8a72" />
+
+'connect auxiliary sys/oracle'
+
+
